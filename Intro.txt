@@ -2,3 +2,6 @@ Hello welcome to my repo
 Git for beginners
 Good one
 Thank you
+Description about project 
+Future scope description
+Some changes
